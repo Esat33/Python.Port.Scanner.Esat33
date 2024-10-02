@@ -7,7 +7,7 @@ Scans server for open ports tcp and ıpv4 only
 ## Dowland
 https://github.com/Esat33/Python.Port.Scanner.Esat33/releases/tag/Relase
     
-## Bıild using src
+## Build using src
 
 Clone the project
 
