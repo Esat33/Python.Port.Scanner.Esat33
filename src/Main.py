@@ -14,9 +14,9 @@ def main():
  ipv4 = input()
  target = socket.gethostbyname(ipv4)
  if platform.system() == "Windows":
-  os.system("ping -n "+count+ipv4)
+  os.system("ping -n " + count + ipv4)
  if  platform.system() == "Linux":
-  os.system("ping -c "+count+ipv4)
+  os.system("ping -c " + count + ipv4)
  else :
   print("İnvalid İp")
 
